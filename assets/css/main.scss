@@ -1,6 +1,5 @@
 ---
 sitemap: false
-background: url("../images/bg.png")
 ---
 
 /*
@@ -11,10 +10,7 @@ background: url("../images/bg.png")
  *  Twitter: http://twitter.com/mmistakes
  *
 */
-body{
-    background: url("../images/bg.png")
-}
-}
+
 // Partials
 @import "variables";
 @import "vendor/bourbon/bourbon";
