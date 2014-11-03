@@ -3,7 +3,7 @@ body {
 	padding: 0;
 	width: 100%;
 	background-color: $body-color;
-	border-top: 5px solid $blue;
+	border-top: 5px solid $black;
 }
 
 
@@ -102,7 +102,7 @@ body {
 .menu-screen {
 	@include position(fixed, 0px 0px 0px 0px);
 	@include transition;
-	background: $black;
+	background: $blue;
 	opacity: 0;
 	visibility: hidden;
 	z-index: 10;
