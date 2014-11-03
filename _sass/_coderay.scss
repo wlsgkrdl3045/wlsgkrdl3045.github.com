@@ -1,5 +1,6 @@
 .CodeRay {
   background-color: #efefef;
+  	background: url("../images/bg.png")
   font-family: $code-font;
   @include font(12);
   color: #333332;
