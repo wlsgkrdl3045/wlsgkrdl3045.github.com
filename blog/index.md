@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: 스노우보드
 excerpt: "An archive of blog posts sorted by date."
 ---
 
