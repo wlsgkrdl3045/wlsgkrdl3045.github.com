@@ -102,7 +102,7 @@ body {
 .menu-screen {
 	@include position(fixed, 0px 0px 0px 0px);
 	@include transition;
-	background: $blue;
+	background: $black;
 	opacity: 0;
 	visibility: hidden;
 	z-index: 10;
@@ -187,6 +187,7 @@ body {
 
 #main {
 	@include clearfix;
+	background: url("../images/bg.png")
 }
 .entry,
 .hentry {
