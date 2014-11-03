@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample Articles
+title: 스키
 excerpt: "An archive of articles sorted by date."
 ---
 
