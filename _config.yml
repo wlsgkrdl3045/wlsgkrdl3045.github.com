@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Winter Sports
 locale: en_US
-description: Describe your website here.
+description: 동계 스포츠의 모든것!
 logo: site-logo.png
 search: true
 url: 
