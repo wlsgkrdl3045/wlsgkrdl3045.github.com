@@ -10,7 +10,11 @@
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
 }
-
+@mixin background() {
+    background: {
+        image: url("../images/bg.png");
+    }
+}
 // Center-align a block level element
 // ----------------------------------
 @mixin center-block() {
