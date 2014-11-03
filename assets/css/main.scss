@@ -10,7 +10,10 @@ sitemap: false
  *  Twitter: http://twitter.com/mmistakes
  *
 */
-
+body{
+    background-image: url(../images/bg.png);
+}
+}
 // Partials
 @import "variables";
 @import "vendor/bourbon/bourbon";
