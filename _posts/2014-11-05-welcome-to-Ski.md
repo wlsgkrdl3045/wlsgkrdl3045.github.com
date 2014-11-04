@@ -1,10 +1,3 @@
----
-layout: post
-title: Ski
-cover: ski.jpg
-date:   2014-11-04 12:00:00
-categories: posts
----
 # 스키
 ## 스키의 개요
 길고 평평한 것을 신발 밑에 부착하여 눈 위에서 미끄러지며 지쳐나갈 수 있도록 만든 도구를 말하며 이를 이용한 스포츠의 명칭이기도 하다. 스키의 명칭은 스칸디나비아어로 '얇은 판자'를 '스키'라 부른 데에서 유래했다.
@@ -38,6 +31,7 @@ categories: posts
 2. 장갑 : 부상과 방한을 위해 필요한 장비
 
 ![장갑](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCMV3BCfKyZBQjCcOgnvxHXO-oTbhwa5Rf4zEIK5mGWJkQBYsyCYUIw)
+
 3. 고글 : 슬로프의 자외선은 실명될수 있을 정도로 강하므로 눈을 보호
 ![고글](http://cfile230.uf.daum.net/image/1301533E508678D620AAC8)
 
@@ -52,7 +46,6 @@ categories: posts
 
 7. 바인딩 : 플레이트와 부츠를 고정시켜주는 중요한 장비
 ![바인딩](http://cfile221.uf.daum.net/image/1652AE4350867537231145)
-
 
 
 
