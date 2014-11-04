@@ -45,6 +45,7 @@
 ![부츠](http://cfile215.uf.daum.net/image/125BFF4B508672DB22BDD6)
 
 7. 바인딩 : 플레이트와 부츠를 고정시켜주는 중요한 장비
+
 ![바인딩](http://cfile221.uf.daum.net/image/1652AE4350867537231145)
 
 
