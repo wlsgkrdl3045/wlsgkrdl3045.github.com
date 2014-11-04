@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wintersports
-cover: url(http://infra.whois.co.kr/upload/cheditor/marketing/board/201402/TFRnbb7hPbDmTY3ynsUR2UTvDotAaH)
+cover: pg.png
 date:   2014-11-04 12:00:00
 categories: posts
 ---
