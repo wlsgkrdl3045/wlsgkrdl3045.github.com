@@ -22,7 +22,22 @@ categories: posts
 
 스노우보드 크로스는 여러 명의 선수가 스노보드를 타고 장애물이 설치된 코스를 주파하여 순위를 가리는 스노보드 경기의 한 종목이다. 코스가 좁아 경기 도중에 선수들끼리 부딪치는 일이 흔하지만 상대 선수를 잡아당기거나 밀면 실격이 되고, 고의로 상대 선수의 속도를 늦추게 만들거나 넘어뜨리는 행위도 금지된다. 알파인과 프리스타일의 구분 없이 모든 스노보더가 참가할 수 있다. 하프파이프 종목은 스노보드의 꽃이라고 불리고 있으며 코스가 파이프를 반으로 잘라놓은 것과 같다고 해서 붙여진 이름이다. 다이내믹한 스노보드의 공중 묘기를 만끽할 수 있는 종목이다.
 - - -
+## 스노우보드 장비
+1. 헬멧 : 부상과 방한을 위해 필요한 장비
+![헬멧](http://cfile215.uf.daum.net/image/111B30455086772E15B3A5)
 
+2. 장갑 : 부상과 방한을 위해 필요한 장비
+![장갑](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCMV3BCfKyZBQjCcOgnvxHXO-oTbhwa5Rf4zEIK5mGWJkQBYsyCYUIw)
+
+3. 고글 : 슬로프의 자외선은 실명될수 있을 정도로 강하므로 눈을 보호
+![고글](http://cfile230.uf.daum.net/image/1301533E508678D620AAC8)
+
+4. 부츠 : 다리골절과 염좌 방지
+![부츠](http://postfiles16.naver.net/20111216_207/ganjiboarder_1323971679340n1aFN_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%288%29.jpg?type=w3)
+5. 바인딩 : 플레이트와 부츠를 고정시켜주는 중요한 장비
+![바인딩](http://postfiles12.naver.net/20111216_75/ganjiboarder_1323971763051j2nOv_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%283%29.JPG?type=w3)
+6. 데크
+![데크](http://postfiles10.naver.net/20111216_121/ganjiboarder_1323971921826KnVB0_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%286%29.JPG?type=w3)
 - - -
 ##강좌 동영상
 <iframe width="420" height="315" src="//www.youtube.com/embed/3CMpQNag9yU" frameborder="0" allowfullscreen></iframe>
