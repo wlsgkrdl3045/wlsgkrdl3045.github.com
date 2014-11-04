@@ -35,12 +35,14 @@ categories: posts
 ![고글](http://cfile230.uf.daum.net/image/1301533E508678D620AAC8)
 
 4. 부츠 : 다리골절과 염좌 방지
+
 ![부츠](http://postfiles16.naver.net/20111216_207/ganjiboarder_1323971679340n1aFN_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%288%29.jpg?type=w3)
 
 5. 바인딩 : 플레이트와 부츠를 고정시켜주는 중요한 장비
 ![바인딩](http://postfiles12.naver.net/20111216_75/ganjiboarder_1323971763051j2nOv_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%283%29.JPG?type=w3)
 
 6. 데크
+
 ![데크](http://postfiles10.naver.net/20111216_121/ganjiboarder_1323971921826KnVB0_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%286%29.JPG?type=w3)
 - - -
 ##강좌 동영상
