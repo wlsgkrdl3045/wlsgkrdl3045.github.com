@@ -18,5 +18,5 @@ categories: posts
 동계 올림픽은 많은 나라들이 개최해왔다. 미국은 4번으로 그 횟수가 가장 많고, 프랑스는 3번, 이탈리아, 일본, 오스트리아, 노르웨이를 포함한 몇몇 나라들은 2번씩 개최하였다. 2014년 동계 올림픽은 러시아 소치에서 열렸다. 편파심판이 논란이 계속 제기되고 있다. 2018년 동계 올림픽은 대한민국 평창에서 개최한다. 두 나라의 동계올림픽은 이번이 처음이다.
 - - -
 ## 2018 평창동계올림픽 홍보영상
-<iframe width="420" height="315" src="//www.youtube.com/watch?v=FMdNzZ_G0F8&feature=player_detailpage" frameborder="0"
+<iframe width="420" height="315" src="http://www.youtube.com/watch?v=FMdNzZ_G0F8&feature=player_detailpage" frameborder="0"
 
