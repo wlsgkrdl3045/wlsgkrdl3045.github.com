@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post
+title: Ski
 cover: ski.jpg
 date:   2014-11-04 12:00:00
 categories: posts
