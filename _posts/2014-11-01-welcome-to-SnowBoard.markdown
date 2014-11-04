@@ -6,7 +6,7 @@ date:   2014-11-04 12:00:00
 categories: posts
 ---
 
-# 스노우보드123
+# 스노우보드
 ## 스노우보드 개요
 보드를 이용하여 슬로프를 질주하는 종목으로 스키의 단점을 보완한 동계 스포츠이다. 겨울철에도 서핑을 즐기고자 하는 노력의 일환으로 생겨났다.
 - - -
@@ -33,13 +33,13 @@ categories: posts
 ![고글](http://cfile230.uf.daum.net/image/1301533E508678D620AAC8)
 
 4. 부츠 : 다리골절과 염좌 방지
-![부츠](http://postfiles16.naver.net/20111216_207/ganjiboarder_1323971679340n1aFN_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%288%29.jpg?type=w3)
+![부츠](http://postfiles16.naver.net/20111216207/ganjiboarder1323971679340n1aFN_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%288%29.jpg?type=w3)
 
 5. 바인딩 : 플레이트와 부츠를 고정시켜주는 중요한 장비
-![바인딩](http://postfiles12.naver.net/20111216_75/ganjiboarder_1323971763051j2nOv_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%283%29.JPG?type=w3)
+![바인딩](http://postfiles12.naver.net/2011121675/ganjiboarder1323971763051j2nOv_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%283%29.JPG?type=w3)
 
 6. 데크
-![데크](http://postfiles10.naver.net/20111216_121/ganjiboarder_1323971921826KnVB0_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%286%29.JPG?type=w3)
+![데크](http://postfiles10.naver.net/20111216121/ganjiboarder1323971921826KnVB0_JPEG/%BD%BA%B3%EB%BF%EC%BA%B8%B5%E5%286%29.JPG?type=w3)
 - - -
 ##강좌 동영상
 <iframe width="420" height="315" src="//www.youtube.com/embed/3CMpQNag9yU" frameborder="0" allowfullscreen></iframe>
