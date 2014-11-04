@@ -1,8 +1,8 @@
 ---
 layout: post
-title: SnowBoard
+title: 컴시설
 cover: snowboard.jpg
-date:   2014-11-04 12:00:00
+date:   2014-10-04 1:00:00
 categories: posts
 ---
 
