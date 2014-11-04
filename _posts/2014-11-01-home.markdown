@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wintersports
-cover: snowboard.jpg
+cover: http://infra.whois.co.kr/upload/cheditor/marketing/board/201402/TFRnbb7hPbDmTY3ynsUR2UTvDotAaH
 date:   2014-11-04 12:00:00
 categories: posts
 ---
